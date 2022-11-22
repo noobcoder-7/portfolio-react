@@ -34,7 +34,7 @@ const Contact = () => {
           <article className="contact__option">
             <RiMailSendFill className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>me***********gp@gmail.com</h5>
+            <h5>me********gp@gmail.com</h5>
             <a href="mailto:meetupadhyaykgp@gmail.com" target='_blank' rel="noreferrer">Send a Mail</a>
           </article>
 

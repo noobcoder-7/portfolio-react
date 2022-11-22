@@ -1,10 +1,10 @@
 import React from 'react'
 import './projects.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/speak_time.png'
+import IMG2 from '../../assets/url_shortner.jpg'
+import IMG3 from '../../assets/flask_blog.jpg'
+import IMG4 from '../../assets/todo_list.jpg'
+import IMG5 from '../../assets/portfolio_react.jpg'
 
 const data =[
   {
