@@ -1,6 +1,8 @@
 # portfolio-react
 This is a protfoilo website made using react.js, css and html.
 
+How to run this code on your system
+
 step 1:
 run npm install
 
