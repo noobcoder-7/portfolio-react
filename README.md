@@ -13,3 +13,5 @@ Make necessary changes in aboutme image, links and picutre of projects and your 
 step 3:
 Before deploying the project change the hompage key value in package-lock.json and then build the code.
 Run npm build
+
+NOTE: How to depoly a react code on github- https://github.com/gitname/react-gh-pages
