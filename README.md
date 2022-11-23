@@ -14,4 +14,4 @@ step 3:
 Before deploying the project change the hompage key value in package-lock.json and then build the code.
 Run npm build
 
-NOTE: How to depoly a react code on github- https://github.com/gitname/react-gh-pages
+NOTE: How to deploy a react code on github- After adding all the code to git hub just run npm run deploy https://www.youtube.com/watch?v=F8s4Ng-re0E
