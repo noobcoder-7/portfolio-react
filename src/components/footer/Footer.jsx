@@ -8,7 +8,7 @@ import {FaTwitter} from 'react-icons/fa'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer id='footer'>
       <a href="#" className="footer__logo">MISTER_M</a>
 
       <ul className="premalinks">
