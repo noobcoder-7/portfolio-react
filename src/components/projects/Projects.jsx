@@ -44,7 +44,7 @@ const data =[
     image: IMG5,
     title: 'Portfolio Using React',
     github:'https://github.com/noobcoder-7/portfolio-react',
-    demo:'https://github.com/noobcoder-7/portfolio-react',
+    demo:'https://noobcoder-7.github.io/portfolio-react/#',
   }
 ]
 const Projects = () => {
